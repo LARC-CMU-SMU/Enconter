@@ -12,6 +12,7 @@ dataset_utils.py, utils.py: some utilities
 1. Clone the repo
 2. Run `preprocess_CoNLL.ipynb` to preprocess training and testing data
 3. Run `train_CoNLL.sh` to train POINTER-E, Greedy Enconter, BBT Enconter
+4. Run `predict_CoNLL.sh` to conduct generation
 ## Dependicies
 ```
 tqdm==4.49.0
