@@ -1,6 +1,6 @@
 # Enconter
 This is the official implementation of 2021 EACL paper
-ENCONTER: Entity Constrained Progressive Sequence Generation viaInsertion-based Transformer
+> ENCONTER: Entity Constrained Progressive Sequence Generation viaInsertion-based Transformer
 ## File description
 ```
 train_CoNLL.sh: training args
